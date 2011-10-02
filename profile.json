@@ -37,9 +37,9 @@
 			"content" : "http://xkcd.com/rss.xml"
 		},
 		"twitter":{
-			"title" : "Googles Twitter",
+			"title" : "Twitter",
 			"type" : "twitter",
-			"username" : "google"
+			"username" : "jdahlberg"
 		}
 	}
 }
